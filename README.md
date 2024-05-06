@@ -1,7 +1,5 @@
 I'm a senior undergrad from Department of Electronic Engineering, <a class="theme-link" href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>.
 
-🌐 <https://giddazhang.github.io>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiddaZhang&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
